@@ -1,15 +1,6 @@
 # CRSDWAN
 CRSDWAN is a simple dashboard built for the SDWAN department in Sri Lanka Telecom. Through this dashboard, the users will be able to manage the Change Requests (CRs) they get from their enterprise customers.
 
-## User types
-There are two user types: **Admin users** and **Non-Admin users**
-
-- **Admin users** - These users have the admin privileges over the web application.
->> Capeabilities - Can perform all the functionalities of the web app.
-
-- **Admin users** - These users have limited access over the web application.
->> Capeabilities - Can perform basic functionalities of the web app (Export Data, Download & View files, View description, View the approval status, Select stages in Actions, Add & View comments).
-
 ## Functionalities of the web application
 
 - **Add User** - An Admin user can add another user (Admin or Non-Admin) to the system.
@@ -28,3 +19,17 @@ Dashboard has several functionalities that users can perform.
 - **Actions** - In a Change Request process, there are four stages; Assigned, WIP (Work In Progress), Request Info and Completed. Users can update the CR progress by selecting the appropriate stage.
 - **Comments** - Users can add comments on a Change Request as well as view all the comments for that Change Request.
 - **Delete CR** - Admin users can delete CRs where CR progress = Completed.
+
+## User types
+There are two user types: **Admin users** and **Non-Admin users**
+
+- **Admin users** - These users have the admin privileges over the web application.
+>> Capeabilities - Can perform all the functionalities of the web app.
+
+- **Admin users** - These users have limited access over the web application.
+>> Capeabilities - Can perform basic functionalities of the web app (Export Data, Download & View files, View description, View the approval status, Select stages in Actions, Add & View comments).
+
+## Tool Stack
+To build this web application, I used HTML, CSS, Js, PHP and MYSQL. Used XAMPP server for the development and an Amazon EC2 for testing and deployment.
+
+## Screenshoots
