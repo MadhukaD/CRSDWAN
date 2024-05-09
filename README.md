@@ -42,3 +42,16 @@ To build this web application, I used Figma for UI designing and HTML, CSS, Js, 
 </p>
 
 ## Screenshoots
+![1  login](https://github.com/MadhukaD/CRSDWAN/assets/83831219/9cdab398-654b-4d63-9283-c37ee27bb446)
+![2  dashboard](https://github.com/MadhukaD/CRSDWAN/assets/83831219/7369211d-4ac7-480d-b9e6-c6e66be383b0)
+![3  Add User](https://github.com/MadhukaD/CRSDWAN/assets/83831219/9813c3fc-fc71-4c86-a77f-abda56bd5ac4)
+![4  Add Customer](https://github.com/MadhukaD/CRSDWAN/assets/83831219/3abf6af9-4f51-4d92-b5d4-97cedafacc3a)
+![5  Add Team](https://github.com/MadhukaD/CRSDWAN/assets/83831219/7b7a925d-2a14-4cab-8611-c2a853b53c33)
+![6  Add CR Type](https://github.com/MadhukaD/CRSDWAN/assets/83831219/746bac18-0114-42e7-b3c9-f5987fc45949)
+![7  Add CR](https://github.com/MadhukaD/CRSDWAN/assets/83831219/f40a0d96-0644-4cbf-81e0-bcf15da0d0d4)
+![8  Export Data](https://github.com/MadhukaD/CRSDWAN/assets/83831219/b98d9e70-353d-4c44-acbf-353cdbace962)
+![9  Change Password](https://github.com/MadhukaD/CRSDWAN/assets/83831219/157e7fd0-8f69-45f7-9e1c-1032099fec8a)
+![files](https://github.com/MadhukaD/CRSDWAN/assets/83831219/ba6ef9a3-67a4-4f7c-866a-d1cb967590d8)
+![Description](https://github.com/MadhukaD/CRSDWAN/assets/83831219/a1991154-ab5a-43b2-82ee-9b5bcbd4bcc1)
+![Comments](https://github.com/MadhukaD/CRSDWAN/assets/83831219/cb7d0b31-3d22-45f6-a4d4-1ebe75712cad)
+
